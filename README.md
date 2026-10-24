@@ -1,4 +1,4 @@
-# Earth Observation-Based Urban Ecosystem Services in Delhi
+# Earth Observation-Based Urban Ecosystem Services in Delhi, India
 
 R scripts for Random Forest (RF) and Geographically Weighted Regression (GWR) analysis of carbon storage and sequestration (CSS) and urban stormwater retention (USWR) estimated using the InVEST model. The scripts examine environmental and anthropogenic driving factors influencing these ecosystem services in Delhi, India.
 
