@@ -10,13 +10,13 @@ This repository contains R scripts associated with an Earth Observation-based as
 
 ### 1. Carbon Storage and Sequestration (CSS)
 
-**File:** `RF_CSS_Driving_Factors.R`
+**File:** `CSS_Driving_Factors_RF_GWR.R`
 
 This script performs Random Forest analysis to assess the importance of environmental and anthropogenic driving factors associated with InVEST-derived carbon storage and sequestration. It also fits a Geographically Weighted Regression (GWR) model to examine spatial variation in relationships between carbon storage and the driving factors.
 
 ### 2. Urban Stormwater Retention (USWR)
 
-**File:** `RF_USWR_Driving_Factors.R`
+**File:** `USWR_Driving_Factors_RF_GWR.R`
 
 This script performs Random Forest analysis to assess the importance of environmental and anthropogenic driving factors associated with InVEST-derived urban stormwater retention. It also fits a GWR model to examine spatial variation in these relationships.
 
